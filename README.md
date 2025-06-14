@@ -1,15 +1,59 @@
-# Power BI Analysis Files
+# 📊 Power BI Projects Portfolio
 
-## Overview
-This folder contains Power BI files for data analysis and visualization projects. Each file includes a range of visualizations, dashboards, and insights created using Power BI to explore and interpret data effectively.
+This folder contains a curated collection of Power BI dashboard projects created by **Prakhar Tripathi**. These dashboards are built using real-world datasets (or simulated data from public sources like Kaggle) and demonstrate a range of analytical and visualization skills.
 
-## Contents
-- **Power BI Files (.pbix)**: These files contain the main visualizations and dashboards developed in Power BI.
-- **Documentation**: Includes explanations of the data, visualizations, and key findings for each analysis.
+---
 
-## How to Use
-1. **Open the .pbix files** using Power BI Desktop to view and interact with the dashboards.
-2. Refer to the documentation files for guidance on interpreting each visualization and for detailed insights.
+## 📁 Projects Included
 
-## Requirements
-- Power BI Desktop (latest version recommended) to open and explore the .pbix files.
+| Project Name              | Description                                              |
+|--------------------------|----------------------------------------------------------|
+| **SBI Stock Analysis**    | Visualizes stock trends, trading volume, and volatility for SBI over time |
+| *(More coming soon)*     | Add your future dashboards here                          |
+
+---
+
+## 💡 What You’ll Find Here
+
+- `.pbix` files for each project (Power BI Desktop)
+- Interactive dashboards with:
+  - Filters, slicers, and drill-downs
+  - KPIs and insights
+  - Clean and informative layout
+- Documentation (`README.md`) for each project (inside respective folders)
+
+---
+
+## 🧰 Tools Used
+
+- **Power BI Desktop**
+- **Microsoft Excel** / **CSV** files for data prep
+- **Kaggle Datasets** or public financial sources
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data visualization and storytelling
+- Creating relationships between tables
+- Using DAX for calculated columns/measures
+- Data transformation in Power Query
+- Creating responsive dashboards
+
+---
+
+## 📄 License
+
+These projects are shared for educational and portfolio-building purposes only. Please do not reuse for commercial work without permission.
+
+---
+
+## 👨‍💻 Author
+
+**Prakhar Tripathi**  
+Analyst @ Oracle  
+📫 [GitHub Profile](https://github.com/Prakhar1802)
+
+---
+
+> ⭐ Tip: Each `.pbix` project includes its own README file for details and screenshots.
