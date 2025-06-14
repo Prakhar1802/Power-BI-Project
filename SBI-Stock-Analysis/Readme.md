@@ -10,20 +10,7 @@ This Power BI dashboard project analyzes sample historical stock price trends of
 - 🧮 **Volume vs. Price Correlation**: Understand market participation and volatility
 - 🧭 **Interactive Filters**: Explore specific date ranges and isolate trend segments
 - 🧠 **Visual Patterns for Insights**: Easy detection of price swings and high-volume activity
-
----
-
-## 📂 Project Structure
-
-
----
-
-## 📷 Dashboard Preview
-
-> *(Insert dashboard screenshot here)*  
-> Example:  
-> ![Dashboard Overview](./Report/StaticResources/RegisteredResources/SBI2920309050251215.jpg)
-
+  
 ---
 
 ## 🧠 Insights Discovered
