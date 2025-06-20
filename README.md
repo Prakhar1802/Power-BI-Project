@@ -4,12 +4,42 @@ This folder contains a curated collection of Power BI dashboard projects created
 
 ---
 
-## 📁 Projects Included
+## 📁 Project Index
 
-| Project Name              | Description                                              |
-|--------------------------|----------------------------------------------------------|
-| **SBI Stock Analysis**    | Visualizes stock trends, trading volume, and volatility for SBI over time |
-| *(More coming soon)*     | Add your future dashboards here                          |
+| Project Name             | Description |
+|--------------------------|-------------|
+| **SBI Stock Analysis**   | Analyzes historical price trends of SBI stock using line charts, volume indicators, and market insights |
+| **HR Analysis**          | Visualizes attrition, satisfaction, department performance, and employee demographics to help with retention strategies |
+| **Netflix Data Analysis**| Explores Netflix’s catalog by genre, release year, duration, and country of origin to uncover streaming trends |
+| **Churn Analysis**       | Identifies factors driving customer churn and highlights retention opportunities based on behavior, contracts, and services |
+| **Spotify Trend Analysis**| Evaluates track popularity, genre distribution, and audio features like danceability, energy, and tempo using data visualizations |
+
+---
+
+## 📦 Repository Structure
+
+Power-BI-Project/
+├── SBI-Stock-Analysis/
+│ ├── SBI Stock Analysis.pbix
+│ ├── README.md
+│ └── dashboard.jpg
+├── HR-Analysis/
+│ ├── HR Analysis.pbix
+│ ├── README.md
+│ └── dashboard.jpg
+├── Netflix-Analysis/
+│ ├── Netflix Data Analysis.pbix
+│ ├── README.md
+│ └── dashboard.jpg
+├── Churn-Analysis/
+│ ├── Churn_Analysis.pbix
+│ ├── README.md
+│ └── dashboard.jpg
+├── Spotify-Analysis/
+│ ├── Spotify_Trend_Analysis.ipynb
+│ ├── README.md
+│ └── snapshot.png
+└── README.md
 
 ---
 
