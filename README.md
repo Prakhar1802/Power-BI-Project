@@ -16,33 +16,6 @@ This folder contains a curated collection of Power BI dashboard projects created
 
 ---
 
-## 📦 Repository Structure
-
-Power-BI-Project/
-├── SBI-Stock-Analysis/
-│ ├── SBI Stock Analysis.pbix
-│ ├── README.md
-│ └── dashboard.jpg
-├── HR-Analysis/
-│ ├── HR Analysis.pbix
-│ ├── README.md
-│ └── dashboard.jpg
-├── Netflix-Analysis/
-│ ├── Netflix Data Analysis.pbix
-│ ├── README.md
-│ └── dashboard.jpg
-├── Churn-Analysis/
-│ ├── Churn_Analysis.pbix
-│ ├── README.md
-│ └── dashboard.jpg
-├── Spotify-Analysis/
-│ ├── Spotify_Trend_Analysis.ipynb
-│ ├── README.md
-│ └── snapshot.png
-└── README.md
-
----
-
 ## 💡 What You’ll Find Here
 
 - `.pbix` files for each project (Power BI Desktop)
